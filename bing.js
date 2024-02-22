@@ -34,7 +34,7 @@ module.exports = {
       const encodedPrompt = encodeURIComponent(prompt);
       const apiKey = "rubish69";
       const cookies = [
-"1DDZETZ_Sol5SJ0a9L685Qxv1wx_K1hIdZbqxa3-CzGvxuRmoLIvAME5zFEbXeiBqfsKA2hA8YtSjMGvL8rJDvOBbF150f2x12nkwzKLq3yn99KmVPTNazRvMChvnQLmNOVF9Mt1eSOAkaGaYOTm-zjp9o9sH-3Zx_rkJ4-XSt8egqo9LCIyG0bmJZYGV738RVS03VQzMIVbFuj883nMYJA",
+"175aRTI7KvsWUgC-cb4pH1xf7ixFYrDEMZIfoHueFSTWuM8vwE_itgzU8MUJ366oK_Gz5AZusssw4mcmLMeSoNTgW2DC3c6st-4JKHsB3ARWW97UHnC0WOTks-ApGAZSPL8ARJEccjCfd0D-qIJrpsFp3KVuCibzKPFVXa6e97_X7jYAXbXrZD7NjxhwNXN8QItbV4Fsqv7ObKz25cP_-WQ",
 "1PulOLvRJoADicSgg6AHLibQ-maYth48Etid-oklg-g18Dh3aQGTu_aDUwHj7HpXFAoEBq_mPF9Xr7QC1Y5Zj5txHmRvk3dmirdmPnTjdZI-7ep5ASDWJqEgCoG09_dv1Ghg8Zg9xFzyZ6KL-uZEadO4sxPEDV-YXc6m6jbO82eYTB4WfV30rCoOkzTKxzCb3L7_xbYQa0HqOmGEbylKRcw"
 ];
 
